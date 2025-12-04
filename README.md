@@ -89,7 +89,7 @@ Output Waveform
 
 
 Tabulation
-![4 ac](https://github.com/user-attachments/assets/bec9be51-2c1b-4348-8c22-338e2e2fe595)
+![4 ac](https://github.com/user-attachments/assets/1d9021d6-e8c1-4d99-aa1b-8b7f952c5b20)
 
 
 
